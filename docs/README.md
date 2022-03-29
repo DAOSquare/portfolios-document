@@ -1,6 +1,6 @@
 # :bank: Portfolios
 
-## [[toc]]IQ Protocol
+## [toc]IQ Protocol
 
 NFT Renting - Games, Guilds, Scholarships & Collectibles
 
@@ -10,7 +10,7 @@ The IQ Protocol establishes bi-directional loyalty. By holding and proving trust
 
 [Docs](https://docs.iq.space/iq/general/protocol)
 
-### [[toc]]Vesting Period
+### [toc]Vesting Period
 - Tokens unlocked at listing date: 0%
 - Cliff start date: Network Launch Date
 - Cliff period: 6 months
