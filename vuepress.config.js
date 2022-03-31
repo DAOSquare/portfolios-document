@@ -9,7 +9,6 @@ module.exports = {
       description: "DAOSquare's Portfolios",
     },
   },
-  plugins: [["@vuepress/plugin-search"]],
   themeConfig: {
     logo: "/images/logoMadbell.svg",
     sidebar: [
