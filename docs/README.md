@@ -8,3 +8,4 @@ The IQ Protocol establishes bi-directional loyalty. By holding and proving trust
 
 [Docs](https://docs.iq.space/iq/general/protocol)
 
+[Deck](https://docsend.com/view/s/fqth2jfhtbtzqy3i)
