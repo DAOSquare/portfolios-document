@@ -1,5 +1,3 @@
-## :bank: Portfolios
-
-### IQ Protocol
+## :bank: Welcome DAOSquare Portfolios
 
 
